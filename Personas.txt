@@ -1,0 +1,4 @@
+Mario,20,M
+Luz,23,F
+Mari,12,F
+Luis,78,M

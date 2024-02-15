@@ -10,4 +10,6 @@ comment4.params=nombre
 comment4.target=void\ crearArchivo(java.lang.String)
 comment5.params=
 comment5.target=void\ guardarDatos()
-numComments=6
+comment6.params=
+comment6.target=void\ crearEstadisticas()
+numComments=7

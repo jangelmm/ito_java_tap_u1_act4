@@ -2,6 +2,8 @@
 comment0.target=Persona
 comment1.params=nombre\ edad\ genero
 comment1.target=Persona(java.lang.String,\ int,\ char)
+comment10.params=
+comment10.target=java.lang.String\ toString()
 comment2.params=
 comment2.target=int\ getId()
 comment3.params=id
@@ -18,4 +20,4 @@ comment8.params=g
 comment8.target=void\ setGenero(char)
 comment9.params=
 comment9.target=char\ getGenero()
-numComments=10
+numComments=11

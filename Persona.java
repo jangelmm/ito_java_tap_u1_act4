@@ -49,7 +49,7 @@ public class Persona {
 
     @Override
     public String toString() {
-        return "Persona [id=" + id + ", nombre=" + nombre + ", edad=" + edad + ", genero=" + genero + "]";
+        return nombre + "," + edad + "," + genero;
     }
     
 }

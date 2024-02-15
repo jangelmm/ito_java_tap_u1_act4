@@ -29,7 +29,7 @@ public class Alumno extends Persona {
 
     @Override
     public String toString() {
-        return "Alumno [ nombre=" + nombre + ", edad=" + edad + ", genero=" +genero + ", email=" + email + ", grupo=" + grupo + "]";
+        return nombre + "," + edad + "," +genero + "," + email + "," + grupo;
     }
     
 }
